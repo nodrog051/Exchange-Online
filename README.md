@@ -10,6 +10,6 @@ Copy the module file to the above location
 Create the file Microsoft.PowerShell_profile.ps1 if it doesn't exist
 Add the following line to the file
 
-Import-Module \\server01\home\username\WindowsPowerShell\
+Import-Module \\server01\home\username\WindowsPowerShell\Exchange-Utils.psm1
 
 
